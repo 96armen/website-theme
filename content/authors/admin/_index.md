@@ -7,16 +7,16 @@ title: Armen Tokadjian
 superuser: true
 
 # Role/position
-role: PhD Candidate / Research Assistant
+role: PhD Candidate / Graduate Researcher
 
 # Status emoji
 status:
   #icon: ☕️
 
 # Organizations/Affiliations
-#organizations:USC
-#- name: USC
- # url: "usc.edu"
+organizations:
+- name: USC
+  url: "usc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'HELLO'

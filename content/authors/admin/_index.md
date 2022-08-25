@@ -1,6 +1,6 @@
 ---
 # Display name
-title: About Me
+title: Armen Tokadjian
 #name_pronunciation: Wu En da
 
 # Is this the primary user of the site?

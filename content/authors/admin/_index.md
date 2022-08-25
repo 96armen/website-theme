@@ -14,7 +14,7 @@ status:
   #icon: ☕️
 
 # Organizations/Affiliations
-organizations:USC
+#organizations:USC
 - name: USC
   url: "usc.edu"
 

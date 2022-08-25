@@ -20,7 +20,7 @@ design:
     color: black
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: hello.jpg # Name of image in `static/media/`.
+    image: me.jpg # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 My name is Armen Tokadjian and I am PhD candidate at the University of Southern California and a Graduate Researcher at Carnegie Observatories.
+My name is Armen Tokadjian and I am PhD candidate at the University of Southern California and a Graduate Researcher at Carnegie Observatories.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}

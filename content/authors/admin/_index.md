@@ -15,8 +15,8 @@ status:
 
 # Organizations/Affiliations
 #organizations:USC
-- name: USC
-  url: "usc.edu"
+#- name: USC
+ # url: "usc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'HELLO'

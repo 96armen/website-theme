@@ -17,6 +17,8 @@ status:
 organizations:
 - name: University of Southern California
   url: https://dornsife.usc.edu/physics/
+- name: Carnegie Observatories
+  url: https://obs.carnegiescience.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'HELLO'

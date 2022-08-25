@@ -52,7 +52,7 @@ social:
   - icon: file-pdf
     icon_pack: fas
     label: View CV
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---

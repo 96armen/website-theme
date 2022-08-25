@@ -16,7 +16,7 @@ status:
 # Organizations/Affiliations
 organizations:
 - name: University of Southern California
-  url: "[usc.edu](https://dornsife.usc.edu/physics/)"
+  url: https://dornsife.usc.edu/physics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'HELLO'

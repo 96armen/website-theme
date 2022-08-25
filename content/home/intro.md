@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-My name is Armen Tokadjian and I am PhD candidate at the University of Southern California and a Graduate Researcher at Carnegie Observatories.
+Welcome to my website! Use the links above to view my projects, presentations, and more.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}

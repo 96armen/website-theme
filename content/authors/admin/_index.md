@@ -14,9 +14,9 @@ status:
   #icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:USC
+- name: USC
+  url: "usc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -29,9 +29,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:armen.tokadjian@gmail.com'
-  #- icon: linkedin
-   # icon_pack: fab
-   # link: https://www.linkedin.com/in/armen-tokadjian-8805b1176
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/armen-tokadjian-8805b1176
  # - icon: instagram
    # icon_pack: fab
    # link: https://www.instagram.com/spacex/

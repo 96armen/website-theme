@@ -54,7 +54,7 @@ social:
   - icon: file-pdf
     icon_pack: fas
     label: View CV
-    link: uploads/CV.pdf
+    link: uploads/Current_CV.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---

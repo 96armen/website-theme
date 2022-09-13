@@ -31,13 +31,13 @@ marketing:
 
 header:
   navbar:
-    enable: false
-    align: r
-    show_logo: false
+    enable: true
+    align: l
+    show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    show_search: false
+    highlight_active_link: true
 
 footer:
   copyright:
@@ -58,7 +58,8 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    theme_light: github-light
+    theme_dark: dracula
     extra_languages:
       - r
       - latex

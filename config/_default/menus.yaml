@@ -11,5 +11,5 @@ main:
     url: /#about
     weight: 20
   - name: Projects
-    url: /#project1
+    url: /project
     weight: 30

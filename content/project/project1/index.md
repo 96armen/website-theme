@@ -28,6 +28,6 @@ url_video: ''
 
 The gravitational force that pulls on a planet by a moon and star causes tides to form on the planet, like the high and low tides we see on Earth. However, it takes some time for these tides to appear, based on the structure and rigidity of the planet. This causes the tides of the planet to lead ahead of or lag behind the pulling force of the moon and star. In the image below, the tidal bulge is leading the moon.
 
-Words 
-<img style="float: right;" src="./TidalLag.png" width="400" height="400"> wordss
-wordsss
+Words Words WordsWordsWordsWordsWordsW ordsWordsWordsWordsWordsWo rdsWordsWordsWo rdsWords
+<img style="float: right;" src="./TidalLag.png" width="400" height="400"> wordss WordsWords WordsWords
+wordsss Words WordsWords WordsWor dsWordsWo rdsWordsWord sWords WordsWordsWords WordsWordsWordsWordsWordsWords WordsWordsWordsWords WordsWordsWords

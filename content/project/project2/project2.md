@@ -1,6 +1,6 @@
 ---
 title: Machine Learning Project
-summary: An example of using the in-built project page.
+summary: This is project 2
 tags:
   - Machine Learning
 date: '2016-04-27T00:00:00Z'

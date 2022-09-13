@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Machine Learning Project
 summary: An example of using the in-built project page.
 tags:
   - Machine Learning

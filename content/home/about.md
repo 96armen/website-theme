@@ -10,3 +10,4 @@ weight: 30
 # This should be the username of a profile in your `content/authors/` folder.
 author: 'admin'
 ---
+About Me: I am a theoretical researcher

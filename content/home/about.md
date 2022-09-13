@@ -11,5 +11,5 @@ weight: 30
 author: 'admin'
 ---
 About Me: 
-{style="font-size: 1.2rem; background: #FFB76B; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-I am a theoretical researcher
+{style="font-size: 1.2rem; background: #8DECFC ; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+I am a PhD candidate and graduate researcher at University of Southern California / Carngeie Observatories. 

@@ -1,5 +1,4 @@
 ---
-widget: portfolio
 title: Machine Learning Project
 summary: This is project 2
 tags:

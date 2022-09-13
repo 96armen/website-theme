@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by www.artofworldbuilding.com/
+  caption: Photo by www.artofworldbuilding.com
   focal_point: Smart
 
 links:

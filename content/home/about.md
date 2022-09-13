@@ -1,7 +1,7 @@
 ---
 widget: about
 headless: true  # This file represents a page section.
-active: false
+active: true
 
 # ... Put Your Section Options Here (title etc.) ...
 

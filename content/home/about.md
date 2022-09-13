@@ -1,5 +1,5 @@
 ---
-widget: about
+#widget: about
 headless: true  # This file represents a page section.
 active: true
 weight: 30

@@ -1,6 +1,7 @@
 ---
 # Use the Intro widget of the Blog template
 widget: about.avatar
+active: false
 
 # This file represents a page section.
 headless: true

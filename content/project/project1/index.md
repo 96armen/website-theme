@@ -1,6 +1,6 @@
 ---
 title: Moon Stability around Kepler Exoplanets
-summary: This project highlights which known exoplanets can host a stable moon for significant time periods.
+summary: This project highlights the tidal interactions between known exoplanets and their potential moons.
 tags:
   - Project 1
 # date: '2016-04-27T00:00:00Z'

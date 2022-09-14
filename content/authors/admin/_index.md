@@ -21,7 +21,7 @@ organizations:
   url: https://obs.carnegiescience.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'HELLO'
+bio: ''
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -38,7 +38,7 @@ The fact that exomoons can be heated to such high temperatures has strong implic
 <!---
  <img id="myimage" style="padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./transit.gif" width="500px" height="500px">
 --->
-<img src="./transitstill2.PNG" onmouseover="this.src='./transit.gif'" onmouseout="this.src='./transitstill2.PNG'" />
+<img src="./transitstill2.PNG" width="800px" onmouseover="this.src='./transit.gif'" onmouseout="this.src='./transitstill2.PNG'" />
 
 The second method of detecting exomoons is closely tied to volcanism on the moon. Like Io, a heated moon will expel certain particles like sodium or potassium creating a cloud of material around itself and/or its host planet. Spectroscopy of light that travels through this cloud will reveal sodium/potassium features, elements that are not generally found on gas giant planets, signaling that an exomoon may be there. A [proof of concept](https://iopscience.iop.org/article/10.3847/1538-4357/ab40cc#apjab40ccs3) of this method has already been demonstrated for the Jupiter-Io system.
 

@@ -26,7 +26,7 @@ doi: '10.3847/2041-8213/ac61e8'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Astroohysical Journal Letters*'
+publication: '*Astrophysical Journal Letters*'
 # publication_short: In *AJ*
 
 abstract: "The tidal interactions between a planet and moon can provide insight into the properties of the host planet. The recent exomoon candidates Kepler-1708 b-i and Kepler-1625 b-i are Neptune-sized satellites orbiting Jupiter-like planets and provide an opportunity to apply such methods. We show that if the tidal migration time is roughly equal to the age of these systems, then the tidal dissipation factor Q for the planets Kepler-1708 b and Kepler-1625 b have values of ~3 × 105-3 × 106 and ~1.5 × 105-4 × 105, respectively. In each case, these are consistent with estimates for gas-giant planets. Even though some work suggests an especially large semimajor axis for Kepler-1625 b-i, we find that this would imply a surprisingly low Q ~ 2000 for a gas giant unless the moon formed at essentially its current position. More detailed predictions for the moons' initial semimajor axis could provide even better constraints on Q, and we discuss the formation scenarios for a moon in this context. Similar arguments can be used as more exomoons are discovered in the future to constrain exoplanet interior properties. This could be especially useful for exoplanets near the sub-Neptune/super-Earth radius gap where the planet structure is uncertain."

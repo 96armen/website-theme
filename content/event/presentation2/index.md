@@ -1,5 +1,5 @@
 ---
-title: Exomoons Survivability, Tidal Heating, and Probing Planet Interiors
+title: Exomoons: Survivability, Tidal Heating, and Probing Planet Interiors
 
 event: AAS 240
 event_url: https://aas.org/meetings/aas240/

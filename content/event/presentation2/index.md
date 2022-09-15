@@ -1,5 +1,5 @@
 ---
-title: Impact of Tides on the Potential for Exoplanets to Host Exomoons
+title: Exomoons Survivability, Tidal Heating, and Probing Planet Interiors
 
 event: ExSoCal 2020
 event_url: https://exsocal2020.ucr.edu/

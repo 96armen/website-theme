@@ -17,5 +17,5 @@ main:
     url: '/publication'
     weight: 70
   - name: Contact
-    url: '/contact'
+    url: '/contactme'
     weight: 90

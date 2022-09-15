@@ -26,6 +26,8 @@ url_video: ''
 # slides: example
 ---
 
+Jupiter's moons provide valuable sources of information that can be applied to exomoons around exoplanets. For example, Io and Europa are in a 2:1 resonance, meaning Europa's orbital period is twice that of Io (3.50 days vs 1.75 days), and Io is significantly tidally heated.
+
 <img style="padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./contours.png" width="500px" height="600px">
 
 <img style="float: right; padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./heating.PNG" width="400px" height="500px">

@@ -3,7 +3,7 @@ title: Tidal Heating of Exomoons and Detection Methods
 summary: Moons in resonance can be significantly heated, and this has implications for exomoon detection.
 tags:
   - Project 3
-date: '2016-04-27T00:00:00Z'
+# date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -36,10 +36,10 @@ url_video: ''
     $(function() {
         $("#myimage").hover(
             function() {
-                $(this).attr("src", "transit.gif");
+                $(this).attr("src", "./transit.gif");
             },
             function() {
-                $(this).attr("src", "transit.png");
+                $(this).attr("src", "./transit.png");
             }                         
         );                  
     });

@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by FILL IN
+  caption: Photo by NASA/JPL/Space Science Institute
   focal_point: Smart
 
 links:

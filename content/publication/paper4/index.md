@@ -14,7 +14,7 @@ authors:
   # - 'Equal contribution'
 
 date: '2022-06-20'
-doi: 'arXiv:2206.11368'
+# doi: 'arXiv:2206.11368'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -49,7 +49,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://arxiv.org/abs/2206.11368'
 url_video: ''
 
 # Featured image

@@ -1,7 +1,7 @@
 ---
 title: Exomoons Survivability, Tidal Heating, and Probing Planet Interiors
 
-event: ExSoCal 2020
+event: AAS 240
 event_url: https://exsocal2020.ucr.edu/
 
 location: Virtual

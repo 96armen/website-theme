@@ -33,4 +33,4 @@ url_video: ''
 <!---
  <img id="myimage" style="padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./transit.gif" width="500px" height="500px">
 --->
-<img src="./transit.png" onmouseover="this.src='./transit.png'" onmouseout="this.src='./transit.png'" />
+<img src="./transitstill.png" onmouseover="this.src='./transit.gif'" onmouseout="this.src='./transitstill.png'" />

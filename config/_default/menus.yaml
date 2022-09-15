@@ -11,5 +11,5 @@ main:
     url: '/project'
     weight: 30
   - name: Presentations
-    url: '/presentations'
+    url: '/event'
     weight: 50

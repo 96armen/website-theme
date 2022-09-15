@@ -26,7 +26,7 @@ doi: '10.3847/1538-3881/abb29e'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: *Astronomical Journal*
+publication: '*Astronomical Journal*'
 # publication_short: In *AJ*
 
 abstract: "Exomoons may play an important role in determining the habitability of worlds outside of our solar system. They can stabilize conditions, alter the climate by breaking tidal locking with the parent star, drive tidal heating, and perhaps even host life themselves. However, the ability of an exoplanet to sustain an exomoon depends on complex tidal interactions. Motivated by this, we make use of simplified tidal lag models to follow the evolution of the separations and orbital and rotational periods in planet, star, and moon systems. We apply these models to known exoplanet systems to assess the potential for these exoplanets to host exomoons. We find that there are at least 36 systems in which an exoplanet in the habitable zone may host an exomoon for longer than one gigayear. This includes Kepler-1625b, an exoplanet with an exomoon candidate, which we determine would be able to retain a Neptune-sized moon for longer than a Hubble time. These results may help provide potential targets for future observation. In many cases, there remains considerable uncertainty in the composition of specific exoplanets. We show the detection (or not) of an exomoon would provide an important constraint on the planet structure due to differences in their tidal response."

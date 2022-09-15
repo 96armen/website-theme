@@ -6,7 +6,7 @@ title: 'A Search for Technosignatures around 31 Sun-like Stars with the Green Ba
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jean-Luc Margot et al.
-  # - Anthony Piro
+  - Anthony Piro
 
 # Author notes (optional)
 # author_notes:

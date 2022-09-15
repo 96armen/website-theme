@@ -5,7 +5,7 @@ title: 'A Search for Technosignatures around 31 Sun-like Stars with the Green Ba
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "Jean-Luc Margot,..., Armen Tokadjian...et al."
+  - Jean-Luc Margot et al.
   # - Anthony Piro
 
 # Author notes (optional)
@@ -65,8 +65,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - project1
+# projects:
+  # - project1
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -13,7 +13,7 @@ location: Pasadena, CA
   # country: United States
 
 summary: My talk at AAS 240
-abstract: 'A'
+abstract: "Exomoons can play an important role in finding habitable worlds outside of our solar system. They stabilize climates, break a planet's tidal locking to the parent star, and possibly host life themselves. Because the stability and lifetime of moons around exoplanets depend on complex tidal interactions, we use simplified tidal lag models to assess the ability of known exoplanets to retain moons. This includes the exomoon candidates around Kepler-1625 b and Kepler-1708 b, which we use to constrain the host planets' interior structures by determining tidal dissipation rates. Similar analysis can be used for exomoons discovered in the future to probe exoplanet interior properties. For exoplanetary systems where a second moon around the planet would be stable, the two moons can orbit in mean-motion resonance, allowing for orbital dynamics that give rise to significant tidal heating. We explore how this heating can be used in indirect methods like secondary eclipses and sodium outgassing for possible exomoon detection."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

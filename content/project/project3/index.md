@@ -34,7 +34,12 @@ Jupiter's moons provide valuable sources of information that can be applied to e
 
 To track this perturbation and resulting tidal heating, we used the N-body numerical integrator code [REBOUND](https://rebound.readthedocs.io/en/latest/) to simulate theoretical systems made up of two exomoons in resonance around an exoplanet. The inner moon starts off on a circular orbit, with zero tidal heating, but simulations show that the eccentricity is quickly pumped up, leading to an overall significantly heated moon. The plots to the right show results for moons in 2-4 day orbits and 4-8 day orbits around Earth-like and Neptune-like planets. The moon in a two day orbit around an Earth-sized planet experiences the most heating: up to 481 K!
 
+The fact that exomoons can be heated to such high temperatures has strong implications for detection. We describe two indirect methods of finding such a heated moon. The first is the method of secondary eclipses. If we observe a planet as it moves in front of a star and blocks some of its starlight, we would notice a dip in the flux received by instruments here on Earth. However, the planet can reflect starlight, or produce some light of its own, so when it moves behind the star there is another, albeit smaller, dip in the light that reaches us. Hover over the image below to see an animation of how this works. If a hot moon is orbiting the planet as it moves behind the star, there would be a bigger dip than expected from the planet alone. This effect may be observable with future instrumentation.
 <!---
  <img id="myimage" style="padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./transit.gif" width="500px" height="500px">
 --->
 <img src="./transitstill2.PNG" onmouseover="this.src='./transit.gif'" onmouseout="this.src='./transitstill2.PNG'" />
+
+The second method of detecting exomoons is closely tied to volcanism on the moon. Like Io, a heated moon will expel certain particles like sodium or potassium creating a cloud of material around itself and/or its host planet. Spectroscopy of light that travels through this cloud will reveal sodium/potassium features, elements that are not generally found on gas giant planets, signaling that an exomoon may be there. A [proof of concept](https://iopscience.iop.org/article/10.3847/1538-4357/ab40cc#apjab40ccs3) of this method has already been demonstrated for the Jupiter-Io system.
+
+For more details about exomoons in resonance, tidal heating, and these detection methods, check out our [recently submitted paper](https://arxiv.org/abs/2206.11368).

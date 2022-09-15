@@ -30,4 +30,17 @@ url_video: ''
 
 <img style="float: right; padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./heating.PNG" width="400px" height="500px">
 
-<img style="padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./transit.gif" width="500px" height="500px">
+<img id="myimage" style="padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./transit.gif" width="500px" height="500px">
+
+<script>
+    $(function() {
+        $("#myimage").hover(
+            function() {
+                $(this).attr("src", "transit.gif");
+            },
+            function() {
+                $(this).attr("src", "transit.png");
+            }                         
+        );                  
+    });
+</script>

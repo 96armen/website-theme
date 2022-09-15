@@ -2,7 +2,7 @@
 title: Impact of Tides on the Potential for Exoplanets to Host Exomoons
 
 event: ExSoCal 2020
-event_url: https://example.org
+event_url: https://exsocal2020.ucr.edu/
 
 location: Virtual
 # address:

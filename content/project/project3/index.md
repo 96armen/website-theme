@@ -30,7 +30,7 @@ Jupiter's moons provide valuable sources of information that can be applied to e
 
 <img style="padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./contours.png" width="800px" height="600px">
 
-
+To track this perturbation and resulting tidal heating, we used the N-body numerical integrator code [REBOUND](rebound.com) to simulate theoretical systems made up of two exomoons in resonance around an exoplanet. The inner moon starts off on a circular orbit, with zero tidal heating, but simulations show that the eccentricity is quickly pumped up, leading to an overall significantly heated moon. The plots to the right show results for moons in 2-4 day orbits and 4-8 day orbits around Earth-like and Neptune-like planets. The moon in a two day orbit around an Earth-sized planet experiences the most heating: up to 481 K!
 
 <img style="float: right; padding-left: 10px; padding-bottom: 0px; padding-top: 0px" src="./heating.PNG" width="400px" height="500px">
 
